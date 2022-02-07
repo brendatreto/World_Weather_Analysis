@@ -22,4 +22,5 @@ Fig.1 Travel destinations map
 We finished the process by using Google Directions API to create a travel itinerary and show a route between four of the filtered cities. This way, our user could plan their trip accordingly.
 
 Fig 2. Vacation itinerary
+
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/22451540/152891729-70c01b7d-c38f-400f-b7fc-44bbafbc099f.PNG)
