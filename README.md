@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-For this assignment we were given the task to improve the PlanMyTrip App. On top of the already working functions we were asked to comply with the following features:
+For this assignment we were given the task to improve the PlanMyTrip App. On top of the already working functions, we were asked to comply with the following features:
 
 `1` Add the weather description on specific locations
 
@@ -25,7 +25,7 @@ The next step in the process was to ask users about their preferences in tempera
 
 ![users_input](https://user-images.githubusercontent.com/22451540/188752500-278155d8-3d2a-45f6-b85f-8a932bbc5b14.PNG)
 
-With this information, we filtered the data set to extract only information that matched the wanted characteristics and added a column to our working dataframe with the hotel info and adding that to our map.
+With this information, we filtered the data set to extract only information that matched the wanted characteristics and added a column to our working DataFrame with the hotel info and adding that to our map.
 
 *Fig.2 Travel destinations map*
 
@@ -37,3 +37,7 @@ We finished the process by using Google Directions API to create a travel itiner
 *Fig 3. Vacation itinerary*
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/22451540/152891729-70c01b7d-c38f-400f-b7fc-44bbafbc099f.PNG)
+
+# Summary
+The requested improvements will change the interaction with the user, making the app able to cater to the preferences of the testers. 
+Further improvements are needed, and a possible suggestion is to include even more parameters for the users such as rain, water temperature in the case of beaches and even language or currency -if considered necessary-.
