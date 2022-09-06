@@ -1,6 +1,9 @@
 # World Weather Analysis
 
-For this assignment we were given the task to improve the PlanMyTrip App. 
+For this assignment we were given the task to improve the PlanMyTrip App. On top of the already working functions we were asked to comply with the following features:
+`1` Add the weather description on specific locations
+`2` Use testers' input to filter data based on weather preferences and identify potential travel destinations
+`3` Create a travel route based on the testers' preferences using Google Maps Directions API
 
 ## Resources
 - Python 3.7.6
