@@ -38,6 +38,6 @@ We finished the process by using Google Directions API to create a travel itiner
 
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/22451540/152891729-70c01b7d-c38f-400f-b7fc-44bbafbc099f.PNG)
 
-# Summary
+## Summary
 The requested improvements will change the interaction with the user, making the app able to cater to the preferences of the testers. 
 Further improvements are needed, and a possible suggestion is to include even more parameters for the users such as rain, water temperature in the case of beaches and even language or currency -if considered necessary-.
