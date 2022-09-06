@@ -3,10 +3,10 @@
 For this assignment we were given the task to improve the PlanMyTrip App. 
 
 ## Resources
--Python 3.7.6
--Jupyter Notebook
--Google API
--World Weather API
+- Python 3.7.6
+- Jupyter Notebook
+- Google API
+- World Weather API
 
 
 ## Retrieving the data
